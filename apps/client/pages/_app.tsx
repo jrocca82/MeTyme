@@ -9,8 +9,8 @@ const App = ({ Component, pageProps }: AppProps) => (
       <ChakraProvider theme={theme}>
           <Analytics />
           <NextSeo
-            title="Home Page Title"
-            description="Home page description of the page"
+            title="Me Tyme"
+            description="Wellness services"
         />
           {/* @ts-ignore */}
           <Component {...pageProps} />
