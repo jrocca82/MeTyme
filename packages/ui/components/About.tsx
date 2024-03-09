@@ -1,7 +1,7 @@
 import { Flex, Text, Image, Heading } from "@chakra-ui/react";
 
 const About = () => (
-	<Flex padding="50px" pos="relative">
+	<Flex padding={{base: "20px", md: "50px"}} pos="relative" align="center" flexDirection={{base: "column", md: "row"}}>
 		<Flex flexDir="column" padding="50px">
 			<Heading>Welcome to ME TYME...</Heading>
 			<Text fontSize="24px">
