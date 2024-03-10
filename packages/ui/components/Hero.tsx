@@ -1,5 +1,6 @@
 import { Flex, Text, Image, Heading } from "@chakra-ui/react";
 
+// To make the changes live, run the commands I do. After each command, I am just pressing enter.
 const Hero = () => (
 	<Flex padding={{base: "20px", md: "50px"}} pos="relative" align="center" flexDirection={{base: "column-reverse", md: "row"}}>
 		<Image src="yoga.jpg" boxSize="300px" borderRadius="20px" />
