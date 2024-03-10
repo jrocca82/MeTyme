@@ -3,7 +3,7 @@ import { Flex, Text, Image, Heading } from "@chakra-ui/react";
 const About = () => (
 	<Flex padding={{base: "20px", md: "50px"}} pos="relative" align="center" flexDirection={{base: "column", md: "row"}}>
 		<Flex flexDir="column" padding="50px">
-			<Heading>Welcome to ME TYME...</Heading>
+			<Heading>Welcome to ME TYME - Your Personal Beauty & Wellness Concierge</Heading>
 			<Text fontSize="24px">
 				your go-to destination for instant beauty and wellness services. Our
 				innovative digital platform is designed with you in mind, offering a
