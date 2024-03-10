@@ -3,6 +3,7 @@ import { NextPage } from "next";
 import MainHeader from "@metyme/ui/components/Header";
 import About from "@metyme/ui/components/About";
 import Hero from "@metyme/ui/components/Hero";
+import HowItWorks from "@metyme/ui/components/HowItWorks";
 import RequestServiceSection from "@metyme/ui/components/RequestServiceSection";
 import { sendEmail } from "@metyme/ui/helpers/sendEmail";
 
@@ -33,6 +34,7 @@ const HomePage: NextPage = () => (
 			/>
 		</Flex>
 		<About />
+		<HowItWorks />
 		<Hero />
 		<RequestServiceSection />
 	</Flex>
