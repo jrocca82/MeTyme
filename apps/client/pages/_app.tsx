@@ -9,13 +9,14 @@ import Head from "next/head";
 const App = ({ Component, pageProps }: AppProps) => (
   <ChakraProvider theme={theme}>
     <Head>
+      <title>Me Tyme</title>
       <link rel="shortcut icon" href="/favicon.ico" />
     </Head>
     <Analytics />
     <NextSeo
       title="Me Tyme"
       description="Wellness services"
-      
+
     />
     {/* @ts-ignore */}
     <Component {...pageProps} />
