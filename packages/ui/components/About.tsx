@@ -5,15 +5,16 @@ const About = () => (
 		<Flex flexDir="column" padding="50px">
 			<Heading>Welcome to ME TYME - Your Personal Beauty & Wellness Concierge</Heading>
 			<Text fontSize="24px">
-				your go-to destination for instant beauty and wellness services. Our
-				innovative digital platform is designed with you in mind, offering a
-				seamless way to discover and book last-minute appointments on the go. ME
-				TYME connects you directly with available beauty and wellness services,
-				turning unexpected openings into immediate opportunities. With our
-				user-friendly mobile and web applications, finding and booking your
-				preferred service at the last minute has never been easier. Say goodbye
-				to waiting lists and hello to a personalised, instant solution for your
-				beauty and wellness needs. Your time, your way, with ME TYME.
+				Need a Beauty or Wellness Service ASAP? We've Got you Covered!
+				AT ME TYME, we're bringing the beauty to you! No need to navigate countless
+				websites or make any calls; simply tell us what service you're looking for, 
+				and we'll find the best match for you. Whether it's a last minute massage,
+				a quick haircut, or a relaxing spa day - ME TYME has your back.
+				How it Works:
+				1. Tell us your Request: Fill out a quick form telling us what service you need, when and where https://forms.office.com/r/hrzJRByU2h  
+				2. We Find the best match: Our team will search high and low to find the perfect service for you.
+				3. Recieve Recommendations: We'll send you personalised recommendations - choose one that suits your best.
+				4. Enjoy your ME TYME moment: Sit back, relax, and let us handle the rest. Your self-care experience is just a request away!
 			</Text>
 		</Flex>
 		<Image src="studio.jpg" boxSize="300px" borderRadius="20px" />
