@@ -10,7 +10,7 @@ const MainHeader = () => (
 		padding="20px"
 	>
 		<Image src="logo.png" boxSize="150px" objectFit="contain" />
-		<Text fontSize="36px">Thank you to me</Text>
+		<Text fontSize="36px">Your Time, Your Wellness, Your Way</Text>
 	</Flex>
 );
 
